@@ -1,4 +1,5 @@
 # Youtube Video Transcriber
+Web app link : https://youtubevideotranscriberapp-ysmkqnbyhwnnqvz8lre9qu.streamlit.app/
 
 This project is a Youtube video transcript generator and summarizer application powered by Generative AI. It extracts the transcript of a provided Youtube video and generates a detailed summary of the video content in a concise and meaningful format.
 
