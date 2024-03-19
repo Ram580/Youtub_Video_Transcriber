@@ -27,7 +27,7 @@ This project is a Youtube video transcript generator and summarizer application 
 
 ## Deployment
 - **Local Deployment:** Clone the repository, install the required dependencies listed in the `requirements.txt` file, set up the Google API key in the environment variables, and run the Streamlit application locally using `streamlit run app.py`.
-- **Online Deployment:** Deploy the application to platforms like Heroku or Streamlit Sharing for online access.
+- **Online Deployment:** Deployed the application to Streamlit community cloud.
 
 ## Credits
 - This project utilizes the YouTube Transcript API for transcript extraction.
